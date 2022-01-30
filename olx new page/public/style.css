@@ -1,0 +1,423 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.allah{
+    background: rgb(243, 242, 242);
+    height: 600%;
+    /* position: fixed; */
+}
+.tophr:hover{
+      color:rgb(0, 162, 255) ;
+}
+.aa:hover{
+      color: rgb(134, 175, 252);
+}
+input{
+    outline: 0;
+    border: 0;
+    /* padding: 10px 20px; */
+}
+.mama{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -50px;
+    margin-top: 30px;
+}
+.sera{
+    margin-right: -60px;
+    /* padding-left: 10px; */
+    font-size: 20px;
+    align-items: center;
+border: 1px solid rgb(15, 15, 15);
+background: white;
+height: 30px;
+width: 300px;
+}
+.serb{
+    margin-bottom: 20px;
+    font-size: 20px;
+    padding-left: 20px;
+    align-items: center;
+border: 1px solid rgb(15, 15, 15);
+background: white;
+  height: 30px;
+  width: 700px;
+}
+.loga{
+    text-decoration: underline;
+    font-size: 18px;
+    padding-top: 5px;
+    padding-left: 30px;
+    margin-right: 30px;
+}
+.sell{
+    padding-top: -40px;
+    margin-bottom: 20px;
+}
+.loga:hover{
+    text-decoration: none;
+      
+}
+
+
+.dam{
+    padding: 1.6rem 0;
+    background-color: #076c75;
+    color: #fff;
+    text-align: right;
+    margin-top: -10px;
+}
+
+
+.serach{
+
+    margin-left: 80px;
+}
+.hana{
+    display: flex;
+}
+.mashallah{
+    padding-top:20px ;
+    padding-left: 40px;
+    display: flex;
+}
+.quran{
+    padding-left: 70px;
+}
+.ya{
+    padding-left: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.ha{
+    padding-left: 40px;
+}
+.allahho{
+    border: 1px solid rgb(73, 72, 72);
+    border-radius: 3px;
+    width: 290px;
+    height: 30px;
+}
+.subanallah{
+    border: 1px solid rgb(73, 72, 72);
+    border-radius: 3px;
+    width: 320px;
+    height: 30px;   
+}
+.subanallah{
+    padding-left:20px ;
+}
+/* navbartop */
+.allahlove{
+    margin-left: 40px;
+    padding-top: 10px;
+    display: flex;
+    margin-top: 5px auto;
+}
+.CLL{
+    padding-left: 10px;
+}
+.nav2{
+    display: flex;
+    padding-left: 20px;
+}
+.page{
+margin-top: 15px;
+}
+.add{
+    margin: 20px 300px;
+}
+h3{
+    padding-left: 60px;
+}
+.card{
+    padding-top: 10px;
+    padding-left: 10px;
+    border:0.4px solid rgb(32, 31, 31) ;
+}
+.cards{
+    padding-left: 40px;
+    margin-top: 30px;
+}
+.card-img-top{
+    width: 265px;
+    height: 170px;
+}
+.pp{
+    font-size: 15px;
+    padding-top: -20px;
+}
+.para{
+    display: flex;
+}
+.ph{
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left:  100px ;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+.button{
+    background-color:white ;
+    margin: 50px 650px;
+    outline: 0;
+    border:0 ;
+    border: 2px solid black;
+    font-size: 30px;
+}
+.alibaba{
+    margin-top: 30px;
+    margin-left: 200px;
+}
+.footer{
+    display: flex;
+    background: rgb(233, 233, 233);
+}
+h4{
+    padding-top: 110px;
+    padding-left: -90px;
+}
+h2{
+    padding-left: 70px;
+}
+.gub{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-right: 340px;
+    border-top: 0.5px solid rgb(211, 212, 214);
+}
+.but{
+    /* border: 1px solid white; */
+    margin: 40px auto;
+    margin-left: 540px;
+    background-color: rgb(253, 250, 250);
+}
+.gam{
+    font-size:25px ;
+    padding-left: 40px;
+}
+.buto{
+    outline: 0;
+    border: 0;
+    background-color: rgb(0, 162, 255);
+    font-size: 15px;
+    width: 140px;
+    height: 38px;
+    border: 1px solid rgb(0, 162, 255) ;
+    color: white;
+}
+.col-4kasi{
+    border: 0.5px solid #076c75;
+    width: 600px;
+    height: 280px;
+    /* display: flex; */
+   margin-left: 90px;
+   border-radius: 5px;
+   margin-left: 700px;
+   margin-top: 10px; 
+}
+.acha{
+    color: #002f33;
+    padding-left: 20px;
+    padding-top: 30px;
+}
+.ider{
+    padding-top: 10px;
+    padding-left:20px ;
+    color: #002f33;
+}.map{
+    padding-left: 30px;
+}
+.mmap:hover{
+    width:510px ;
+    height:185px ;
+}
+
+
+
+    /* border-radius: 20px;   */
+
+.butt{
+    outline: 0;
+    border: 0;
+    background-color: white;
+    font-size: 15px;
+    width: 140px;
+    height: 38px;
+    border: 1px solid rgb(237, 241, 243) ;
+    color:rgb(158, 158, 158) ;
+    
+}
+.dava{
+    display: flex;
+    border: 1px solid black;
+    background: #000;
+    width: 650px;
+    height: 450px;
+    margin-left: 40px;
+}
+.char{
+    padding-left: 70px;
+}
+.me{
+    border:1px solid white ;
+    padding-left: 40px;
+}
+.col-4{
+    border: 0.5px solid #076c75;
+    width: 600px;
+    height: 140px;
+    /* display: flex; */
+   margin-left: 10px;
+   border-radius: 5px;
+
+}
+.ga{
+    padding-left: 20px;
+    color: #002f33;
+}
+.gs{
+    padding-left:20px ;
+    color: #002f33;
+    font-size: 25px;
+}
+.pp{
+    display: flex;
+    padding-top:50px ;
+}
+.par{
+    padding-left: 19px;
+    color: #002f33;
+
+}
+.para{
+    padding-left: 400px;
+    color: #002f33;
+}
+
+
+.ahi{
+    display: flex;
+    /* padding-left: 400px; */
+}
+
+.heart{
+    padding-left: 360px;
+    padding-top: 10px;
+}
+
+
+
+.col-3{
+    border: 0.5px solid #076c75;
+    width: 600px;
+    height: 300px;
+    /* display: flex; */
+   margin-left: 90px;
+   border-radius: 5px;
+   margin-left: 700px;
+   margin-top: -300px;
+}
+
+.had{
+    padding-left: 10px;
+     font-size: 20px;
+     color:#002f33 ;
+}
+
+.imgcard{
+    padding-left: 30px;
+}
+.me{
+    width: 610px;
+    border-left:0.8px solid #076c75 ; 
+    border-right:0.8px solid #076c75 ; 
+    border-bottom:0.8px solid #076c75  ; 
+}
+ /* basic body start */
+.col-5{
+    border: 0.4px solid #076c75;
+    width: 650px;
+    height: 190px;
+    /* display: flex; */
+   margin-left: 40px; 
+   border-radius: 3px;
+   margin-top: -200px; 
+   color: #002f33;
+}
+.as{
+    color: #002f33;
+    padding-top: 15px;
+    font-size: 30px;
+
+}
+.ba{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-right: 80px;
+    padding-left: 60px ;
+    color: #044e57;
+}
+.badar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-right: 420px;
+    padding-left: 60px ;
+    color: #02353a;
+}
+.allahhoho{
+    padding-top:10px ;
+    padding-left: 60px;
+}
+.col-8{
+    border: 0.5px solid #076c75;
+    width: 650px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: 39px;
+    margin-bottom: 40px;
+}
+.mob{
+    padding-left: 0px;
+    padding-top: 20px;
+}
+.rastia{
+    color: #002f33;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* basic body end */
+
+
+
+
